@@ -82,7 +82,7 @@ img {
 	outline: none;
 	text-decoration: none;
   color: #{COLOUR};
-  font-family: Helvetica, arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
 }
 table {
@@ -103,7 +103,6 @@ a[x-apple-data-detectors] {
 	font-weight: inherit !important;
 	line-height: inherit !important;
 }
-
 /* MOBILE STYLES */
 @media screen and (max-width: 525px) {
 /* ALLOWS FOR FLUID TABLES */
